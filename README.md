@@ -6,7 +6,7 @@ This is a detailed description of myself, what i do best. projects done in my pa
 
 # Live link
 
-Live link to my portfolio: https://muthakabrian.github.io/My-portfolio/
+Live link to my portfolio: https://muthakabrian.github.io/myPortfolio/
 
 ## Tool used
 
