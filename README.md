@@ -12,11 +12,10 @@ Live link to my portfolio: https://muthakabrian.github.io/myPortfolio/
 
 Have used html, css,javascript to come up with my portfolio.
 
-
 ## Contact
 
-if you need a world class web developer contact : 0725021306 
-                                        email: muthakabrian@gmail.com 
+if you need a world class web developer contact : 0725021306
+                                           email: muthakabrian@gmail.com
 
 Copyright (c) 2020 Brian Muthaka
 
