@@ -10,7 +10,8 @@ Live link to my portfolio: https://muthakabrian.github.io/myPortfolio/
 
 ## Tool used
 
-have used html, css,javascript to come up with my portfolio.
+Have used html, css,javascript to come up with my portfolio.
+
 
 ## Contact
 
