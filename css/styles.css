@@ -57,7 +57,7 @@ body a {
 }
 
 .hero-image {
-  background-image: url("/img/images4.jpeg");
+  background-image: url("../img/images4.jpeg");
   background-color: #cccccc;
   height: 500px;
   background-position: center;
